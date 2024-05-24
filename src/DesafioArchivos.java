@@ -1,12 +1,11 @@
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class DesafioArchivos {
     public static void main(String[] args) throws IOException {
-        
+
         String dir = "directorio2/archivo2.txt";
         String file = "archivo2.txt";
 
